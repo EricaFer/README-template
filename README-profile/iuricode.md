@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/128/1998/1998664.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://image.flaticon.com/icons/png/128/1998/1998664.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
