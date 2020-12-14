@@ -1,27 +1,29 @@
-<img src="https://image.flaticon.com/icons/png/128/1998/1998664.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left"> 
+  Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação </strong> com duplo diploma em <strong>Matemática</strong> pela <strong> UFRJ</strong>.
+</p>
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Também participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é uma parceria entre o Instituto de Matemática da UFRJ-      <strong>IM</strong> e o Centro de Operações do Rio de Janeiro-<strong>COR</strong>, onde desenvolvemos soluções para melhorar a cidade do Rio de Janeiro utilizando Ciência de Dados e Machine Learning. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+ 👾 Linguagens: <strong> Python, LATEX, C.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+ 🚀 Ferramentas: <strong>Jupyter Notebook, Matlab, Simulink, Numpy, Pandas e Scikit-learn.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+ 💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
 </p>
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=erica.ferreira@poli.ufrj.br" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=file:///C:/Users/erica/Downloads/1998664.svg" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericacferreira/" /></a>
 
 </p>  
